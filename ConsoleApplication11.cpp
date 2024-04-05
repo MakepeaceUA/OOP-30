@@ -9,7 +9,7 @@ int main()
 {
 /*  ofstream iFile("Input_File.txt");
     iFile << "fffffff   aaaa   bbbbb   hhhhhh    yyyyyyyyyyy     vbvbghgh" << "\n";*/
-    ifstream  iFile("nput_file.txt");
+    ifstream  iFile("Input_file.txt");
     ofstream oFile("Output_File.txt");
     
     
